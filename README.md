@@ -9,8 +9,7 @@ translate english to hebrew and vise versa from bash with a simple command
 `
 ## steps
 - clone repository
-- cd into repository directory
-- run command in terminal: `npm i`
+- cd into repository directory and run the next command in terminal: `npm i`
 - in file ~/.bashrc add function:
 `
 function tra(){
