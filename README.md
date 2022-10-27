@@ -1,8 +1,9 @@
 # bash_translate
 translate english to hebrew and vise versa from bash with a simple command  
 ## prerequisites
-1. node
-2. npm or yarn
+1. supported OS's: MacOS , Linux
+2. node installed
+3. npm or yarn
 ## usage examples (in terminal)
 `tra harpoon` <br />
 `tra שבשבת
