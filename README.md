@@ -17,4 +17,4 @@ function tra(){
 	node **local_path_to_repo**/bash_translate/translate.js "$1"
 }
 `
-- thats it! , open new terminal and try it
+- thats it, open new terminal and try it
