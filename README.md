@@ -4,9 +4,9 @@ translate english to hebrew and vise versa from bash with a simple command
 1. node
 2. npm or yarn
 ## usage examples (in terminal)
-tra harpoon <br />
-tra שבשבת
-
+`tra harpoon` <br />
+`tra שבשבת
+`
 ## steps
 - clone repository
 - cd into repository directory
