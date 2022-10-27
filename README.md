@@ -14,7 +14,7 @@ translate english to hebrew and vise versa from bash with a simple command
 - in file ~/.bashrc add function:
 `
 function tra(){
-	node *repository path*/bash_translate/translate.js "$1"
+	node * repository path */bash_translate/translate.js "$1"
 }
 `
 - thats it! , open new terminal and try it
