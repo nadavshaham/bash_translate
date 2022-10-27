@@ -2,7 +2,7 @@
 translate english to hebrew and vise versa from bash with a simple command  
 
 ## usage examples
-tra harpoon
+tra harpoon <br />
 tra שבשבת
 
 ## steps
